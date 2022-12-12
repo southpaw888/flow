@@ -98,3 +98,9 @@ label{
     background-color: #0020F4;
     border-style: none;
 }
+.map{
+    width: 463px;
+    height: 197px;
+    margin-top: 80px;
+    margin-left: 100px;
+}

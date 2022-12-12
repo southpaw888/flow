@@ -1,4 +1,16 @@
+
+@font-face {
+    font-family:'lato' 'comfortaa-M' ;
+    src: url(fonts/Lato-Bold.ttf) format(ttf);
+         
+
+}
+
+
+body {
+
 .body1 {
+
     background: #0020F4;
 }
 .logo{
@@ -61,3 +73,38 @@ color:#fff;
 
 }
 
+.body2 {
+    background: #0020F4;
+
+
+}
+h4{
+    color :#fff ;
+    font-family:'lato';
+    margin-left: 100px;
+    
+
+}
+p{
+    color: #fff;
+    font-family:'comfortaa-M';
+    display: inline-block;
+    width: 463px;
+    margin-left: 100px;
+    
+}
+label{
+    color:#fff;
+    font-size: 10px;
+    display: inline-block;
+}
+.registration{
+    background-color: #0020F4;
+    border-style: none;
+}
+.map{
+    width: 463px;
+    height: 197px;
+    margin-top: 80px;
+    margin-left: 100px;
+}

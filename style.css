@@ -31,3 +31,33 @@ color:#fff;
 
 
 }
+.img{
+    margin-top:15px;
+    width: 160px;
+    height: 55px;
+}
+
+.box{
+    display: inline-block;
+    margin-left: 50px;
+   
+
+}
+.img1{ 
+    
+    width: 600px;
+    height: 500px;
+    vertical-align: middle;
+    margin-left: 90px; 
+    margin-top: 280px;
+
+}
+.img2{
+   
+    width: 700px;
+    height: 600px;
+    vertical-align: middle;
+    margin-top: 215px;
+
+}
+

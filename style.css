@@ -1,3 +1,33 @@
 body {
     background: #0020F4;
 }
+.logo{
+    width: 115px;
+    height: 65px;
+    margin-top:15px;
+    margin-left: 90px;
+    vertical-align: middle;
+    
+    
+    
+    
+}  
+.navigation{
+
+list-style: none; 
+color:#fff;
+
+}
+.list{
+    display: inline-block;
+    width:130px;
+ 
+    
+}
+.navigation{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 50px;
+
+
+}

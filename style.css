@@ -1,3 +1,4 @@
+
 @font-face {
     font-family:'lato' 'comfortaa-M' ;
     src: url(fonts/Lato-Bold.ttf) format(ttf);
@@ -7,6 +8,9 @@
 
 
 body {
+
+.body1 {
+
     background: #0020F4;
 }
 .logo{
